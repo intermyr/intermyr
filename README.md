@@ -1,7 +1,5 @@
 ### Howdy! 👋
 
-#### I'm an aspiring Front-end developer based in Moscow, Russia.
-
 - 💼 Currently looking for work
 - 🌱 I’m currently learning Typescript, Node.js
 - 💞 I love React and Styled components
