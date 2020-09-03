@@ -1,16 +1,16 @@
-### Hi there 👋
+### Howdy! 👋
 
-<!--
-**intermyr/intermyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an aspiring Front-end developer based in Moscow, Russia.
 
-Here are some ideas to get you started:
+- 💼 Currently looking for work
+- 🌱 I’m currently learning Typescript, Node.js
+- 💞 I love React and Styled components
+- 📫 How to reach me: [@intermyr](https://t.me/intermyr)
+- ⚔️ [My codewars profile](https://www.codewars.com/users/intermyr)
+- ⚡️ My interests: cookery and art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
