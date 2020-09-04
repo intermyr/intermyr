@@ -6,9 +6,3 @@
 - 📫 How to reach me: [@intermyr](https://t.me/intermyr)
 - ⚔️ [My codewars profile](https://www.codewars.com/users/intermyr)
 - ⚡️ My interests: cookery and art
-
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
